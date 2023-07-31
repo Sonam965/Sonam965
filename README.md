@@ -25,3 +25,4 @@
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonam965&show_icons=true&locale=en" alt="sonam965" /></p>
 
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonam965&" alt="sonam965" /></p>
+<p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonam965&show_icons=true&locale=en&layout=compact" alt="sonam965" /></p>
